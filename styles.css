@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(131, 225, 230);
+}
+
+p {
+    color: rgba(222, 28, 141, 0.853);
+    font-family: Lucida Handwriting, Cursive;
+}
+
+h1 {
+    border-style: double;
+    color: black;
+}
